@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class NewLesson {
     public static void main(String[] args) {
+       
         System.out.println("GİRİLEN SAYILARIN HESAPLANMASI ");
         System.out.println();
         Scanner scan = new Scanner(System.in);
